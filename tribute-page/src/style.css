@@ -1,0 +1,49 @@
+body {
+  background-image: url(https://i.pinimg.com/originals/4c/65/f9/4c65f913798dcd566fb929d0973a37e6.jpg);
+  background-repeat: no-repeat;
+  margin: 0;
+  background-size: cover;
+  background-position: center center;
+  color: #282928;
+  font-size: 20px;
+}
+h1 {
+  text-align: center;
+  font-family: "Yatra One", cursive;
+}
+
+#img-div {
+  display: block;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+  border-radius: 10px;
+}
+#img-caption {
+  display: block;
+  text-align: center;
+}
+h2 {
+  display: block;
+  text-align: center;
+  font-family: "Yatra One", cursive;
+}
+ul {
+  max-width: 500px;
+  margin: 0 auto 0 auto;
+  text-align: left;
+}
+
+li {
+  margin: 20px 0;
+}
+h3 {
+  text-align: center;
+}
+strong {
+  font-family: "Yatra One", cursive;
+}
